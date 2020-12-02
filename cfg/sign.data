@@ -1,0 +1,5 @@
+classes= 3
+train  = /home/cemal/hamer_ws/src/darknet/training/model_sign_class/train.txt
+valid  = /home/cemal/hamer_ws/src/darknet/training/model_sign_class/test.txt
+names  = /home/cemal/hamer_ws/src/darknet/training/model_sign_class/sign.names
+backup = /home/cemal/hamer_ws/src/darknet/backup/

@@ -1,2 +1,1 @@
 # yolov3_ros_traffic_sign_detection
-# yolov3_ros_traffic_sign_detection
